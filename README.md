@@ -1,4 +1,4 @@
-# Introdu-o-a-Algoritmos
+# Introdução-a-Algoritmos
 
 ## Como estudar Algoritmos
 Passos necessários para resolver um problema:
