@@ -57,3 +57,7 @@ representação grafica do algoritmo
 objetivo
 `Facilitar o entendimento de uma ideia`
 
+![image](https://user-images.githubusercontent.com/44181214/193954391-161cfb4e-beb7-46f2-a20d-5e6c4dca6c2a.png)
+
+![image](https://user-images.githubusercontent.com/44181214/193954641-921a6b2f-2d5b-47cd-a73e-4492cf403baf.png)
+
